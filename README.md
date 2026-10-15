@@ -1,0 +1,2 @@
+# RizzAi
+server Rizz ai
